@@ -72,6 +72,7 @@
   </properties>
   <modules>
 
+    <module>access-token</module>
     <module>abstract-document</module>
     <module>abstract-factory</module>
     <module>active-object</module>
